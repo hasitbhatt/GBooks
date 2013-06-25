@@ -1,2 +1,2 @@
 # Simple and without proxy #
-gets th[1~[D[D[D[D[D[G[4~[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[De url from prompt[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[3~[3~[3~[3~[3~[3~[4~[C[C[C[C[C[C[C[C[C[C[width, url, prefix and postfix and surfs the pages according to innnputs and fetches the link of image and tries to download it in folder with same name as book id
+gets the width, url, prefix and postfix and surfs the pages according to innnputs and fetches the link of image and tries to download it in folder with same name as book id.
